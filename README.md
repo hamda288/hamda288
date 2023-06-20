@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, fellow creators!<br><br>I'm a passionate and creative individual with a love for <br>designing captivating webpages. GitHub is my playground<br>where I bring together my artistic flair and technical skills to <br>craft visually stunning and user-friendly digital experiences.<br><br>When I'm not immersed in the world of web design, you <br>can find me indulging in my other passions—baking and <br>painting. I find solace in the art of baking, experimenting <br>with flavors and textures to create mouthwatering delights.<br>Painting, on the other hand, allows me to unleash my <br>imagination onto a canvas, creating vibrant and expressive <br>works of art.<br><br>I'm always excited to collaborate with fellow designers, developers,<br>and enthusiasts. Feel free to explore my repositories, provide feedback, <br>or reach out for potential collaborations.<br><br>Happy designing!
+Hello, fellow creators!<br><br>I'm a passionate and creative individual with a love for designing captivating webpages. GitHub is my playground where I bring together my artistic flair and technical skills to craft visually stunning and user-friendly digital experiences.<br><br>When I'm not immersed in the world of web design, you can find me indulging in my other passions—baking and painting. I find solace in the art of baking, experimenting with flavors and textures to create mouthwatering delights. Painting, on the other hand, allows me to unleash my imagination onto a canvas, creating vibrant and expressive works of art.<br><br>I'm always excited to collaborate with fellow designers, developers, and enthusiasts. Feel free to explore my repositories, provide feedback, or reach out for potential collaborations.<br><br>Happy designing!
 
 
 ## 🌐 Socials:
@@ -23,4 +23,6 @@ Hello, fellow creators!<br><br>I'm a passionate and creative individual with a l
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hamda288&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
